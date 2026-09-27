@@ -1,0 +1,6 @@
+{
+  "name": "Village School Digital Learning & Parent-Teacher Platform",
+  "description": "A comprehensive digital learning, student development, and parent-teacher support platform tailored for rural and village schools with bilingual Kannada support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
